@@ -47,11 +47,6 @@ This project presents an interactive Financial Analysis Dashboard developed usin
 ## Dashboard Preview
 Screenshot of dashboard is uploaded
 
-## Future Enhancements
-- Connect the dashboard to live data sources.
-- Add forecasting and trend analysis.
-- Implement advanced DAX measures for deeper financial insights.
-
 ## Author
 **Lakshmipriya M**
 
