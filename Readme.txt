@@ -47,7 +47,5 @@ This project presents an interactive Financial Analysis Dashboard developed usin
 ## Dashboard Preview
 Screenshot of dashboard is uploaded
 
-## Author
-**Lakshmipriya M**
-
-If you found this project helpful, feel free to ⭐ the repository.
+## Conclusion
+This dashboard helps understand employee attrition and workforce trends for better HR decision - making.
