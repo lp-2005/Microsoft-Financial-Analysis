@@ -45,7 +45,7 @@ This project presents an interactive Financial Analysis Dashboard developed usin
 - README.md
 
 ## Dashboard Preview
-Upload a dashboard screenshot named `Dashboard_Screenshot.png` to this repository.
+Screenshot of dashboard is uploaded
 
 ## Future Enhancements
 - Connect the dashboard to live data sources.
